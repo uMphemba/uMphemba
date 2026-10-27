@@ -107,7 +107,7 @@ A digital solutions platform focused on helping businesses build and improve the
 * IT services
 * Digital solutions
 
-🌐 **[Visit IMPISI TECH](https://impisitech.co.za)**
+🌐 **[Visit IMPISI TECH](https://impisitech.co.za/)**
 
 ---
 # GitHub Streak
