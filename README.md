@@ -92,23 +92,6 @@ A cloud-based student management application developed using Microsoft Azure and
 * Cloud-based data management
 
 **Built with:** ASP.NET Core MVC • C# • Azure • Cosmos DB • Blob Storage
-
----
-
-## 🌐 IMPISI TECH
-
-A digital solutions platform focused on helping businesses build and improve their online presence.
-
-### Services
-
-* Website development
-* E-commerce solutions
-* Custom software
-* IT services
-* Digital solutions
-
-🌐 **[Visit IMPISI TECH](https://impisitech.co.za/)**
-
 ---
 # GitHub Streak
 
